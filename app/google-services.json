@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271200154422",
+    "firebase_url": "https://logindemo-d3cad.firebaseio.com",
+    "project_id": "logindemo-d3cad",
+    "storage_bucket": "logindemo-d3cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271200154422:android:cfce1aae4216f23e803997",
+        "android_client_info": {
+          "package_name": "com.example.iss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271200154422-lof3l9a8rnqi0nu7d9ogc5bdp9fvfbhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4M4km6rYeyUdPGWgrrLn2yc-nMIfao3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271200154422-lof3l9a8rnqi0nu7d9ogc5bdp9fvfbhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
